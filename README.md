@@ -18,13 +18,17 @@ No serious challenges were encountered, but potential challenges include decidin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The months of May and June seem to produce more successful campaigns than other months out of the year. However, those months also seem to produce many failed campaigns as well, with May in particular producing more than any other month. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The vast majority of projects specify a donation goal of less than $5,000, and these projects also have the highest likelihood to be successful. This is most likely correlated to the fact that the bar for success is set very low compared to higher donation goals. In fact, the percentage of failed campaigns trends up as the donation goal increases, with the exception of the $35,000 to $39,999 and $40,000 to $44,999 ranges which would be considered outliers.
 
 - What are some limitations of this dataset?
+
 The data is very limited beyond what you can determine from donation goals, donations achieved, and start/end dates for each campaign. While observations can be made about success and failure totals for each month, there really is not much insight one can extract from this as to what the underlying cause is for these outcomes and the correlation there is, if any, to time of year and launch date. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 Some examples could be showing success and failure rates for each parent category of campaign, success and failure rates by year, and success and failure rates of staff picks.
