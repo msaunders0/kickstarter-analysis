@@ -10,6 +10,7 @@ The purpose is to aggregate statistics from the successes, failures, and cancele
 An analysis was performed on the outcomes. First, I used pivot tables to isolate different slices of the data in order to determine what effects details such as campaign launch dates and donation goals had on the outcome of their respective campaigns. I also aggregated data based on central tendency and spread, and tabulated totals of successes, failures, and cancellations by goal category. Lastly, I created several charts in order to serve as examples and to help visualize the meaning of the aggregated data (see below).
 
 Outcomes based on donation goals:
+https://github.com/msaunders0/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png
 
 Theater category outcomes based on launch date:
 
