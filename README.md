@@ -13,6 +13,7 @@ Outcomes based on donation goals:
 https://github.com/msaunders0/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png
 
 Theater category outcomes based on launch date:
+https://github.com/msaunders0/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
 
 No serious challenges were encountered, but potential challenges include deciding how to efficiently weigh factors that do not directly correlate and determining whether an outlier is meaningful or if it is more of an indication of an error in the data.
 
